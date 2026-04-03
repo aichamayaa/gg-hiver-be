@@ -1,5 +1,5 @@
 export const environment = {
-  apiUrl: 'http://localhost:5000'
+  apiUrl: 'https://gg-hiver-be.onrender.com'
 };
 
 
